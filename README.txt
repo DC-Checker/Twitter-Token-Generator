@@ -11,7 +11,7 @@ captcha solvers and temporary email services.
   GETTING STARTED
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-1. Run Discord_Generator.exe
+1. Run Twitter_Generator.exe
 2. The tool will open - no installation needed
 
 
@@ -208,3 +208,4 @@ Need help? Contact me on Telegram:
 ═══════════════════════════════════════════════════════════════════════
                     Have fun generating accounts!
 ═══════════════════════════════════════════════════════════════════════
+
