@@ -16,7 +16,8 @@ Welcome to the **Twitter Account Generator**. This powerful utility is designed 
 
 ## Interface Preview
 
-![XGen Twitter Generator Interface](screenshots/xgen-interface.png)
+<img width="1280" height="763" alt="image" src="https://github.com/user-attachments/assets/d5201413-97da-44d2-9f05-17acda92559a" />
+
 
 The intuitive GUI provides real-time statistics, advanced configuration options, and comprehensive logging for complete control over your account generation process.
 
@@ -146,3 +147,4 @@ This tool is provided as-is. Use responsibly and in accordance with Twitter's Te
 ## Disclaimer
 
 This tool is for educational purposes only. Ensure all use complies with Twitter's Terms of Service and applicable laws. The developers are not responsible for misuse of this tool.
+
