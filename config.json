@@ -1,0 +1,46 @@
+{
+    "api_keys": {
+        "silentmail": "",
+        "smsbower": "",
+        "anymessage": ""
+    },
+    "solver_keys": {
+        "castlebreaker": "",
+        "castlesolver": "",
+        "botwitter": "",
+        "cdssolver": "",
+        "funbypass": "",
+        "codesolver": "",
+        "traili": "",
+        "rosolve": ""
+    },
+    "proxies": [],
+    "gui_settings": {
+        "threads": 2,
+        "castle": "Botwitter",
+        "email": "SMSBower",
+        "funcap": "cds",
+        "swap": false,
+        "reuse": false,
+        "theme": "Discord Dark"
+    },
+    "unlocker_settings": {
+        "threads": 2,
+        "recaptcha": "CastleBreaker",
+        "funcaptcha": "cds",
+        "email": "Anymessage"
+    },
+    "unlocker_proxies": [],
+    "unlocker_api_keys": {
+        "silentmail": "",
+        "smsbower": "",
+        "anymessage": ""
+    },
+    "unlocker_solver_keys": {
+        "castlebreaker": "",
+        "botwitter": "",
+        "capsolver": "",
+        "captcha88": "",
+        "cdssolver": ""
+    }
+}
